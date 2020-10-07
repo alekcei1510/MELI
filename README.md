@@ -3,6 +3,8 @@ Prueba técnica de mercado libre
 
 Notebooks de exploración de datos y modelamiento del campo de sold_quantities de mercado libre. Cada uno de los notebooks tiene comentarios sobre los procedimientos que se usaron y las mejoras que tienen cabida en cada notebook. 
 
+Una anotación importante es que es un primer approach a modelas el campo de sold_quantities, los modelos tienen mucho trabajo por delante, desde modificar y/o tener nuevos datos para modelarlo, hasta hacer una búsqueda de parámetros optimizados para los modelos que lo requieran.
+
 Archivos del repositorio
 -------------------
 - ``Exploratory analysis.ipynb``
